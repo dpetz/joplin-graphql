@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "https://github.com/dpetz/joplin-graphql",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "GraphQL",
+	"description": "Query Markup DefLists from notes via graphql.js",
+	"author": "dpetz",
+	"homepage_url": "https://github.com/dpetz/joplin-graphql",
+	"repository_url": "https://github.com/dpetz/joplin-graphql",
+	"keywords": [],
+	"categories": []
+}
